@@ -16,5 +16,7 @@ Com uma ideia mais ou menos formulada do problema, após finalizar o 5º dia por
 
 Para mim, foi um pouco difícil tendo em conta que sou iniciante e não sei JS aprender a criar no pages.js a função para redirecionar para aquela nova pagina estilizada como também no server.js adicionar a pagina com o get são elementos que nunca trabalhei antes que perdi um bom tempo, que apesar de simples não entendia muito bem os conceitos.
 
-<link rel="icon" href="/milha_extra/BEFORE.svg" />
-<link rel="icon" href="/milha_extra/AFTER.svg" />
+<p align="center"> 
+  <img src="https://github.com/gustavodev1998/NLW-03-DISCOVERY-HAPPY/blob/main/NLW3/public/milha_extra_img/BEFORE.png" alt="" >
+  <img src="https://github.com/gustavodev1998/NLW-03-DISCOVERY-HAPPY/blob/main/NLW3/public/milha_extra_img/AFTER.png" alt="">
+</p>
