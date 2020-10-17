@@ -1,0 +1,86 @@
+
+/* Animações */
+@keyframes up {
+    from{
+        opacity: 0;
+        transform: translateY(16px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-up {
+   animation-name: up;
+   animation-duration: 300ms;
+   animation-fill-mode: backwards;
+}
+
+
+/* Tempo para aparecer cada componente  START - 1º Pagina */
+
+#logo {
+    animation-delay: 50ms;
+}
+
+.location {
+    animation-delay: 100ms;
+}
+
+.main h1 {
+    animation-delay: 150ms;
+}
+
+.visit p {
+    animation-delay: 200ms;
+}
+
+.visit a {
+    animation-delay: 250ms;
+}
+
+/* Tempo para aparecer cada componente  END 1º Pagina */
+
+/* Inicio para 2º Pagina */
+
+/* Está é para a pagina vir da esquerda para a direita */
+@keyframes right {
+
+    from {
+        transform: translateX(-100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+.animate-right{
+    animation-name: right;
+    animation-duration: 300ms;
+    animation-fill-mode: backwards;
+}
+
+/* Está animação é para o mapa */
+
+@keyframes appear {
+
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+
+.animate-appear{
+    animation-name: appear;
+    animation-duration: 300ms;
+    /* Vai fazer a opacity 0 até 1 e ficar no 1 */
+    /* Caso contrario após o efeito ele voltava ao estado inicial */
+    animation-fill-mode: backwards;
+}

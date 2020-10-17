@@ -1,0 +1,32 @@
+aside {
+    width: 100vw;
+    background: linear-gradient(329.54deg, #15B6D6 0%, #15D6D6 100%);
+    padding: clamp(3rem, 5vw, 8rem);
+    display: flex;
+    flex-direction: column;
+    justify-content:  center;
+}
+
+aside h2 {
+    text-align: center
+}
+
+aside footer p{
+    margin: .8rem 0;
+}
+
+header img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 10rem;
+}
