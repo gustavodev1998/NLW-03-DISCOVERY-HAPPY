@@ -12,9 +12,9 @@ Realmente professores excelentes com uma didatica fenomenal 💜
 
 ## :trophy: Milha Extra
 
-Com uma ideia mais ou menos formulada do problema, após finalizar o 5º dia por completo decidi criar e estilizar está pagina que apesar de simples cumpre com o propósito de avisar ao usuário que o marcador “Happy” ficou faltando no formulário e um botão de redirecionamento para a pagina anterior, sendo que os dados já previamente preenchidos não são perdidos e ao adicionar o marcador no mapa submete e adiciona no mapa conforme o funcionamento do programa.
+Para andar a milha-extra tendo em conta que ainda sou iniciante em front-end, algo me ressaltou aos olhos que daria para fazer com o meu conhecimento que é o seguinte. No desenvolver do 5º dia com o Mayk ao preencher o formulário todos os campos exceto a localização ao submeter ele redirecionava para uma pagina em branco  com o texto: “Todos os campos devem ser preenchidos”, então logo ai tive a ideia para a milha-extra indicada na live.
 
-Para mim, foi um pouco difícil tendo em conta que sou iniciante e não sei JS aprender a criar no pages.js a função para redirecionar para aquela nova pagina estilizada como também no server.js adicionar a pagina com o get são elementos que nunca trabalhei antes que perdi um bom tempo, que apesar de simples não entendia muito bem os conceitos.
+Com uma ideia mais ou menos formulada do problema, após finalizar o 5º dia por completo decidi criar e estilizar está pagina que apesar de simples cumpre com o propósito de avisar ao usuário que o marcador “Happy” está em falta no formulário e um botão de redirecionamento para a pagina anterior, sendo que os dados já previamente preenchidos não são perdidos e ao adicionar o marcador no mapa submete e adiciona no mapa conforme o funcionamento do programa.
 
 <p align="center"> 
   <img src="https://github.com/gustavodev1998/NLW-03-DISCOVERY-HAPPY/blob/main/NLW3/public/milha_extra_img/BEFORE.png" alt="" >
